@@ -69,7 +69,8 @@ Before running the application, configure your VirusTotal API key:
 
 1. Start the Flask application:
 
-    ```python app.py
+    ```
+    python app.py
     ```
 
 2. Access the application in your web browser at http://localhost:5000.
